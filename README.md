@@ -9,7 +9,7 @@
 
 ## 🌐 Live Demo
 
-_Deploying soon on PythonAnywhere..._
+  www.AmiduSheriff130.pythonanywhere.com
 
 ---
 
